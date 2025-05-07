@@ -36,8 +36,7 @@ theme:
     - navigation.top
     - search.share
     - search.suggest
-repo_url: https://github.com/Muska-Ami/NyaLCF-Docs
-edit_uri: 'tree/main/docs/'
+repo_url: https://github.com/Muska-Ami/NyaLCF
 repo_name: GitHub
 plugins:
   - tags
